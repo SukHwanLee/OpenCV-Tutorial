@@ -6,7 +6,6 @@ OpenCV tutorial
 pypi : https://pypi.org/project/opencv-python/ 
 
 OpenCV-Python으로 배우는 영상처리 및 응용 (정성환, 배종욱, 생능출판사, 2020년)
- 
+
 Python Data Science Handbook
-https://jakevdp.github.io/PythonDataScienceHandbook/ 
-![image](https://github.com/SukHwanLee/OpenCV-Tutorial/assets/45359385/669eb108-5b73-4aa5-9390-7d271722a549)
+https://jakevdp.github.io/PythonDataScienceHandbook/
